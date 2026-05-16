@@ -102,7 +102,7 @@ Chance aproximada de vitória: ${chance}%
       method:"POST",
       headers:{
         "Content-Type":"application/json",
-        "Authorization":"Bearer SEU_TOKEN_OPENAI"
+        "Authorization":"Bearer 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"
       },
       body: JSON.stringify({
         model:"gpt-4",
